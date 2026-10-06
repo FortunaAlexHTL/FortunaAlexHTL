@@ -1,29 +1,32 @@
 ## Hi there 👋
 
-I'm **Alex**, an HTL student passionate about building things with code and electronics!
+I'm **Alexandru**, an 18 year old HTL student passionate about building things with code and electronics!
 
 ### 🔭 What I'm Working On
-- Building a **barber shop demo website** using HTML & CSS to attract real clients
 - Exploring **Arduino projects** and microcontroller programming
-- Learning **C#** and web development best practices
+- Learning **C#** and **C** best practices
+- Learning and improving my Social Skills in German.
 
 ### 🛠️ Tech Stack
-- **Languages**: C#, HTML, CSS, Arduino
-- **Tools**: Visual Studio Code
-- **Focus**: Web development, embedded systems
+- **Languages**: C#, C, Arduino
+- **Tools**: Rider, Arduino IDE, VS Code
+- **Focus**: Object-orientated programming, embedded systems
 
 ### 🌱 Currently Learning
 - Full-stack web development techniques
-- Arduino programming and IoT applications
-- Creating user-friendly, professional web experiences
+- Arduino programming and C# applications
+- C programming.
 
 ### 💬 Ask Me About
 - Arduino projects and microcontroller programming
-- Web design with HTML & CSS
-- Building demo projects to showcase real-world applications
+- C# applications
+- Building Gaming PCs
 
 ### 📫 How to Reach Me
+**Discord** - @z_zenky_y
+**Instagram** - @fort.alex08
 [Feel free to check out my repositories and projects!]
 
 ### ⚡ Fun Fact
-I'm combining my passion for electronics and web development to create practical solutions - from smart microcontroller projects to client-facing websites!
+- My passion for Computers started when I was 7, that was when I have assembled my first computer with the help of my uncle, since then it has never left my mind, now I'm walking towards combining it for electronics and object-oriented programming to create real practical solutions.
+- I'm living alone as a 18 year old in Austria, and this has really improved my organization skills, and helped me to cope better with life problems
