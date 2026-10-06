@@ -23,9 +23,9 @@ I'm **Alexandru**, an 18 year old HTL student passionate about building things w
 - Building Gaming PCs
 
 ### 📫 How to Reach Me
-**Discord** - @z_zenky_y
-**Instagram** - @fort.alex08
-[Feel free to check out my repositories and projects!]
+- **Discord** - @z_zenky_y
+- **Instagram** - @fort.alex08
+- [Feel free to check out my repositories and projects!]
 
 ### ⚡ Fun Fact
 - My passion for Computers started when I was 7, that was when I have assembled my first computer with the help of my uncle, since then it has never left my mind, now I'm walking towards combining it for electronics and object-oriented programming to create real practical solutions.
